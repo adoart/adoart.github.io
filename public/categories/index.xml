@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Andre Duarte | Software Developer</title>
-    <link>https://adoart.github.io/public/categories.html</link>
+    <link>https://adoart.github.io/public/categories/</link>
     <description>Recent content in Categories on Andre Duarte | Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,46 +10,46 @@
     <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://adoart.github.io/public/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>database</title>
-      <link>https://adoart.github.io/public/categories/database.html</link>
+      <link>https://adoart.github.io/public/categories/database/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://adoart.github.io/public/categories/database.html</guid>
+      <guid>https://adoart.github.io/public/categories/database/</guid>
       <description></description>
     </item>
     
     <item>
       <title>design</title>
-      <link>https://adoart.github.io/public/categories/design.html</link>
+      <link>https://adoart.github.io/public/categories/design/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://adoart.github.io/public/categories/design.html</guid>
+      <guid>https://adoart.github.io/public/categories/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>https://adoart.github.io/public/categories/development.html</link>
+      <link>https://adoart.github.io/public/categories/development/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://adoart.github.io/public/categories/development.html</guid>
+      <guid>https://adoart.github.io/public/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>logo</title>
-      <link>https://adoart.github.io/public/categories/logo.html</link>
+      <link>https://adoart.github.io/public/categories/logo/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://adoart.github.io/public/categories/logo.html</guid>
+      <guid>https://adoart.github.io/public/categories/logo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sketch</title>
-      <link>https://adoart.github.io/public/categories/sketch.html</link>
+      <link>https://adoart.github.io/public/categories/sketch/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://adoart.github.io/public/categories/sketch.html</guid>
+      <guid>https://adoart.github.io/public/categories/sketch/</guid>
       <description></description>
     </item>
     

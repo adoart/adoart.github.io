@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>web on Andre Duarte | Software Developer</title>
-    <link>https://adoart.github.io/public/tags/web.html</link>
+    <link>https://adoart.github.io/public/tags/web/</link>
     <description>Recent content in web on Andre Duarte | Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,19 +10,19 @@
     <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://adoart.github.io/public/tags/web/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This Is A Simple Blog Post</title>
-      <link>https://adoart.github.io/public/blog/blog-3.html</link>
+      <link>https://adoart.github.io/public/blog/blog-3/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://adoart.github.io/public/blog/blog-3.html</guid>
+      <guid>https://adoart.github.io/public/blog/blog-3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>This Is A Simple Blog Post</title>
-      <link>https://adoart.github.io/public/blog/blog-6.html</link>
+      <link>https://adoart.github.io/public/blog/blog-6/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://adoart.github.io/public/blog/blog-6.html</guid>
+      <guid>https://adoart.github.io/public/blog/blog-6/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     

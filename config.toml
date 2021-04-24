@@ -6,7 +6,7 @@
 ######################## default configuration ####################
 baseURL = "https://adoart.github.io/public"
 relativeURLs = true
-uglyURLs = true
+#uglyURLs = true
 title = "Andre Duarte | Software Developer"
 theme = "somrat-master"
 # post pagination
