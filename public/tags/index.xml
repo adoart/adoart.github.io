@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Andre Duarte | Software Developer</title>
-    <link>https://adoart.github.io/public/tags/</link>
+    <link>https://adoart.github.io/tags.html</link>
     <description>Recent content in Tags on Andre Duarte | Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://adoart.github.io/public/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://adoart.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>access</title>
-      <link>https://adoart.github.io/public/tags/access/</link>
+      <link>https://adoart.github.io/tags/access.html</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://adoart.github.io/public/tags/access/</guid>
+      <guid>https://adoart.github.io/tags/access.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>art</title>
-      <link>https://adoart.github.io/public/tags/art/</link>
+      <link>https://adoart.github.io/tags/art.html</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://adoart.github.io/public/tags/art/</guid>
+      <guid>https://adoart.github.io/tags/art.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>database</title>
-      <link>https://adoart.github.io/public/tags/database/</link>
+      <link>https://adoart.github.io/tags/database.html</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://adoart.github.io/public/tags/database/</guid>
+      <guid>https://adoart.github.io/tags/database.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>design</title>
-      <link>https://adoart.github.io/public/tags/design/</link>
+      <link>https://adoart.github.io/tags/design.html</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://adoart.github.io/public/tags/design/</guid>
+      <guid>https://adoart.github.io/tags/design.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>https://adoart.github.io/public/tags/development/</link>
+      <link>https://adoart.github.io/tags/development.html</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://adoart.github.io/public/tags/development/</guid>
+      <guid>https://adoart.github.io/tags/development.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>sketch</title>
-      <link>https://adoart.github.io/public/tags/sketch/</link>
+      <link>https://adoart.github.io/tags/sketch.html</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://adoart.github.io/public/tags/sketch/</guid>
+      <guid>https://adoart.github.io/tags/sketch.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>web</title>
-      <link>https://adoart.github.io/public/tags/web/</link>
+      <link>https://adoart.github.io/tags/web.html</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://adoart.github.io/public/tags/web/</guid>
+      <guid>https://adoart.github.io/tags/web.html</guid>
       <description></description>
     </item>
     
