@@ -4,7 +4,7 @@
 #theme = "somrat-master"
 
 ######################## default configuration ####################
-baseURL = "https://adoart.github.io"
+baseURL = "https://adoart.github.io/public"
 relativeURLs = true
 uglyURLs = true
 title = "Andre Duarte | Software Developer"

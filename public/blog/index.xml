@@ -2,63 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oh My Blog! on Andre Duarte | Software Developer</title>
-    <link>https://adoart.github.io/blog.html</link>
+    <link>https://adoart.github.io/public/blog.html</link>
     <description>Recent content in Oh My Blog! on Andre Duarte | Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://adoart.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://adoart.github.io/public/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This Is A Simple Blog Post</title>
-      <link>https://adoart.github.io/blog/blog-1.html</link>
+      <link>https://adoart.github.io/public/blog/blog-1.html</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://adoart.github.io/blog/blog-1.html</guid>
+      <guid>https://adoart.github.io/public/blog/blog-1.html</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>This Is A Simple Blog Post</title>
-      <link>https://adoart.github.io/blog/blog-2.html</link>
+      <link>https://adoart.github.io/public/blog/blog-2.html</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://adoart.github.io/blog/blog-2.html</guid>
+      <guid>https://adoart.github.io/public/blog/blog-2.html</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>This Is A Simple Blog Post</title>
-      <link>https://adoart.github.io/blog/blog-3.html</link>
+      <link>https://adoart.github.io/public/blog/blog-3.html</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://adoart.github.io/blog/blog-3.html</guid>
+      <guid>https://adoart.github.io/public/blog/blog-3.html</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>This Is A Simple Blog Post</title>
-      <link>https://adoart.github.io/blog/blog-4.html</link>
+      <link>https://adoart.github.io/public/blog/blog-4.html</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://adoart.github.io/blog/blog-4.html</guid>
+      <guid>https://adoart.github.io/public/blog/blog-4.html</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>This Is A Simple Blog Post</title>
-      <link>https://adoart.github.io/blog/blog-5.html</link>
+      <link>https://adoart.github.io/public/blog/blog-5.html</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://adoart.github.io/blog/blog-5.html</guid>
+      <guid>https://adoart.github.io/public/blog/blog-5.html</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>This Is A Simple Blog Post</title>
-      <link>https://adoart.github.io/blog/blog-6.html</link>
+      <link>https://adoart.github.io/public/blog/blog-6.html</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://adoart.github.io/blog/blog-6.html</guid>
+      <guid>https://adoart.github.io/public/blog/blog-6.html</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     

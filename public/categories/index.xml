@@ -2,54 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Andre Duarte | Software Developer</title>
-    <link>https://adoart.github.io/categories.html</link>
+    <link>https://adoart.github.io/public/categories.html</link>
     <description>Recent content in Categories on Andre Duarte | Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://adoart.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://adoart.github.io/public/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>database</title>
-      <link>https://adoart.github.io/categories/database.html</link>
+      <link>https://adoart.github.io/public/categories/database.html</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://adoart.github.io/categories/database.html</guid>
+      <guid>https://adoart.github.io/public/categories/database.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>design</title>
-      <link>https://adoart.github.io/categories/design.html</link>
+      <link>https://adoart.github.io/public/categories/design.html</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://adoart.github.io/categories/design.html</guid>
+      <guid>https://adoart.github.io/public/categories/design.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>https://adoart.github.io/categories/development.html</link>
+      <link>https://adoart.github.io/public/categories/development.html</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://adoart.github.io/categories/development.html</guid>
+      <guid>https://adoart.github.io/public/categories/development.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>logo</title>
-      <link>https://adoart.github.io/categories/logo.html</link>
+      <link>https://adoart.github.io/public/categories/logo.html</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://adoart.github.io/categories/logo.html</guid>
+      <guid>https://adoart.github.io/public/categories/logo.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>sketch</title>
-      <link>https://adoart.github.io/categories/sketch.html</link>
+      <link>https://adoart.github.io/public/categories/sketch.html</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://adoart.github.io/categories/sketch.html</guid>
+      <guid>https://adoart.github.io/public/categories/sketch.html</guid>
       <description></description>
     </item>
     
