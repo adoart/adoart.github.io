@@ -2,7 +2,7 @@
 title: "Shopping COVID"
 date: 2021-02-24T12:10:00
 image: "images/portfolio/Shopping-COVID-Screenshot.png"
-categories: ["unity","development"]
+categories: ["unity"]
 description: "This is meta description."
 draft: false
 project_info:
@@ -25,7 +25,7 @@ et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullam
 ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
 fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
 mollit anim id est laborum.
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q-frsdcCF6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Project Details
 

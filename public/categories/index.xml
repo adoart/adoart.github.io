@@ -7,49 +7,58 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://adoart.github.io/public/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://adoart.github.io/public/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>database</title>
-      <link>https://adoart.github.io/public/categories/database/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <title>threejs</title>
+      <link>https://adoart.github.io/public/categories/threejs/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://adoart.github.io/public/categories/database/</guid>
+      <guid>https://adoart.github.io/public/categories/threejs/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>design</title>
-      <link>https://adoart.github.io/public/categories/design/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <title>webgl</title>
+      <link>https://adoart.github.io/public/categories/webgl/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://adoart.github.io/public/categories/design/</guid>
+      <guid>https://adoart.github.io/public/categories/webgl/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>development</title>
-      <link>https://adoart.github.io/public/categories/development/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <title>unity</title>
+      <link>https://adoart.github.io/public/categories/unity/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://adoart.github.io/public/categories/development/</guid>
+      <guid>https://adoart.github.io/public/categories/unity/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>logo</title>
-      <link>https://adoart.github.io/public/categories/logo/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <title>VR</title>
+      <link>https://adoart.github.io/public/categories/vr/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://adoart.github.io/public/categories/logo/</guid>
+      <guid>https://adoart.github.io/public/categories/vr/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>sketch</title>
-      <link>https://adoart.github.io/public/categories/sketch/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <title>oldschool</title>
+      <link>https://adoart.github.io/public/categories/oldschool/</link>
+      <pubDate>Sun, 02 Apr 2006 00:00:00 +0000</pubDate>
       
-      <guid>https://adoart.github.io/public/categories/sketch/</guid>
+      <guid>https://adoart.github.io/public/categories/oldschool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opengl</title>
+      <link>https://adoart.github.io/public/categories/opengl/</link>
+      <pubDate>Sun, 02 Apr 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://adoart.github.io/public/categories/opengl/</guid>
       <description></description>
     </item>
     

@@ -1,8 +1,8 @@
 ---
-title: "Project Title"
-date: 2020-05-12T12:14:34+06:00
-image: "images/portfolio/item6.jpg"
-categories: ["design","logo"]
+title: "Billard GL"
+date: 2002-07-23
+image: "images/portfolio/billardGL.png"
+categories: ["opengl","oldschool"]
 description: "This is meta description."
 draft: false
 project_info:

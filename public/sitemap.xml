@@ -2,67 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://adoart.github.io/public/tags/access/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
     <loc>https://adoart.github.io/public/</loc>
+    <lastmod>2021-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://adoart.github.io/public/categories/</loc>
+    <lastmod>2021-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://adoart.github.io/public/portfolio/project-5/</loc>
+    <lastmod>2021-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://adoart.github.io/public/portfolio/</loc>
+    <lastmod>2021-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://adoart.github.io/public/categories/threejs/</loc>
+    <lastmod>2021-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://adoart.github.io/public/categories/webgl/</loc>
+    <lastmod>2021-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://adoart.github.io/public/portfolio/project-4/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://adoart.github.io/public/categories/unity/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://adoart.github.io/public/categories/vr/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://adoart.github.io/public/portfolio/project-1/</loc>
+    <lastmod>2021-02-24T12:10:00+00:00</lastmod>
+  </url><url>
+    <loc>https://adoart.github.io/public/portfolio/project-3/</loc>
+    <lastmod>2021-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://adoart.github.io/public/portfolio/project-2/</loc>
+    <lastmod>2020-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://adoart.github.io/public/tags/access/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://adoart.github.io/public/tags/art/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://adoart.github.io/public/categories/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
     <loc>https://adoart.github.io/public/tags/database/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://adoart.github.io/public/categories/database/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://adoart.github.io/public/tags/design/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://adoart.github.io/public/categories/design/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
     <loc>https://adoart.github.io/public/tags/development/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://adoart.github.io/public/categories/development/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://adoart.github.io/public/categories/logo/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://adoart.github.io/public/blog/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://adoart.github.io/public/portfolio/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://adoart.github.io/public/portfolio/project-1/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://adoart.github.io/public/portfolio/project-2/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://adoart.github.io/public/portfolio/project-3/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://adoart.github.io/public/portfolio/project-4/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://adoart.github.io/public/portfolio/project-5/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://adoart.github.io/public/portfolio/project-6/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
     <loc>https://adoart.github.io/public/tags/sketch/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://adoart.github.io/public/categories/sketch/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://adoart.github.io/public/tags/</loc>
@@ -88,6 +82,18 @@
   </url><url>
     <loc>https://adoart.github.io/public/tags/web/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://adoart.github.io/public/portfolio/project-7/</loc>
+    <lastmod>2006-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://adoart.github.io/public/categories/oldschool/</loc>
+    <lastmod>2006-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://adoart.github.io/public/categories/opengl/</loc>
+    <lastmod>2006-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://adoart.github.io/public/portfolio/project-6/</loc>
+    <lastmod>2002-07-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://adoart.github.io/public/banner/</loc>
   </url><url>

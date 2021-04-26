@@ -44,10 +44,6 @@ skill:
       percentage : "98%"
 
     # skill item loop
-    - name : "Database Management"
-      percentage : "90%"
-
-    # skill item loop
     - name : "Unity"
       percentage : "70%"
       
