@@ -5,7 +5,7 @@ image : "images/backgrounds/portrait.jpg"
 button:
   enable : true
   label : "DOWNLOAD MY CV"
-  link : "#"
+  link : "/public/docs/CV-AndreDuarte.pdf"
 
 ########################### Experience ##############################
 experience:
@@ -13,22 +13,22 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
-    - name : "Web Developer"
-      company : "Fiverr.com"
-      duration : "2016-2018"
-      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
+    - name : "Senior Developer"
+      company : "Second Floor B.V."
+      duration : "2012-present"
+      content : "Part of the development team of Second Floor main product, using agile methodologies. Responsible for the development of a solution for Stress testing analysis."
       
     # experience item loop
-    - name : "Graphic Designer"
-      company : "Fiverr.com"
-      duration : "2015-2018"
-      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
+    - name : "Software Engineer"
+      company : "Critical Software"
+      duration : "2007-2012"
+      content : "Requirement analysis. Technical Documentation Writing. Implementation of several modules mostly in web applications. Maintenance and Warranty of several modules."
       
     # experience item loop
-    - name : "Database Manager"
-      company : "Polytechnic"
-      duration : "2014-2018"
-      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+    - name : "Teaching Professional"
+      company : "EPTOLIVA Professional School"
+      duration : "2004-2005"
+      content : "Teaching of several Information Technology Disciplines."
 
 ############################### Skill #################################
 skill:
@@ -36,20 +36,24 @@ skill:
   title : "SKILL"
   skill_list:
     # skill item loop
-    - name : "Web Development"
+    - name : "Software Engineering"
       percentage : "98%"
-      
+
     # skill item loop
-    - name : "Graphic Design"
-      percentage : "85%"
-      
+    - name : "Web Applications"
+      percentage : "98%"
+
     # skill item loop
     - name : "Database Management"
       percentage : "90%"
+
+    # skill item loop
+    - name : "Unity"
+      percentage : "70%"
       
     # skill item loop
-    - name : "Wordpress"
-      percentage : "70%"
+    - name : "WebGL"
+      percentage : "20%"
 
 
 # custom style
@@ -58,4 +62,5 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It's Somrat, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me........😊
+I'm André Duarte and I like to see things moving on the screen. <br/>I'm a software developer working in IT since 2006.
+Although my passion is computer graphics I've been working in web development in the Fintech sector for most of my career. Until recently when I decided to try and break through the gaming industry.

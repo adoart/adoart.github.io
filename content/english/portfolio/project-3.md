@@ -1,8 +1,8 @@
 ---
-title: "Project Title"
-date: 2020-05-12T12:14:34+06:00
-image: "images/portfolio/item3.jpg"
-categories: ["database"]
+title: "HoopsVR"
+date: 2021-02-23
+image: "images/portfolio/hoopsVR.png"
+categories: ["unity","VR","development"]
 description: "This is meta description."
 draft: false
 project_info:

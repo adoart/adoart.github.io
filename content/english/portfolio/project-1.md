@@ -1,8 +1,8 @@
 ---
-title: "Project Title"
-date: 2020-05-12T12:14:34+06:00
-image: "images/portfolio/item1.jpg"
-categories: ["design","development"]
+title: "Shopping COVID"
+date: 2021-02-24T12:10:00
+image: "images/portfolio/Shopping-COVID-Screenshot.png"
+categories: ["unity","development"]
 description: "This is meta description."
 draft: false
 project_info:
