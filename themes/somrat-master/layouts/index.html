@@ -367,10 +367,13 @@
           <div class="row">
             {{ range .Params.certificates_list }}
             <div class="col-lg-4 col-sm-4 col-12 services-icon">
-              <div class="service-img">
-                <img class="img-fluid" src="{{ .image | absURL }}" alt="{{ .name | markdownify }}">
-              </div>
+              <a class="service-img" target="_blank" href="{{ .link | absURL }}">
+                <div class="service-img">
+                  <img class="img-fluid" src="{{ .image | absURL }}" alt="{{ .name | markdownify }}">
+                </div>
+              </a>
               <div class="service-label">{{ .name | markdownify }}</div>
+              
             </div>
             {{ end }}
           </div>
