@@ -44,3 +44,16 @@ h3 {
 ul.experience-chart h4 {
     color: #ffffff !important;
 }
+@media (max-height: 535px) and (max-width: 468px) {
+    .last-name {
+        font-size: 35px !important;
+        line-height: 1 !important;
+    }
+}
+
+@media (max-width: 469px) and (min-height: 536px) {
+    .last-name {
+        font-size: 35px !important;
+        line-height: 1 !important;
+    }
+}

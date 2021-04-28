@@ -131,9 +131,11 @@
             <span></span>
           </div>
         </a>
+        {{ if site.Params.logo_dark }}
         <div class="mobile-menu-logo"><a href="{{site.BaseURL | relLangURL }}"><img class="img-fluid"
               src="{{ site.Params.logo_dark | absURL }}" alt="{{ site.Title }}"></a>
         </div>
+        {{ end }}
         <div class="menu-slider">
           <nav>
             <ul class="mobile-menu-list">
