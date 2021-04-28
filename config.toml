@@ -75,10 +75,10 @@ link = "plugins/webgl/threejs/OrbitControls.js"
 link = "plugins/webgl/threejs/incal.js" 
 #################### default parameters ################################
 [params]
-favicon = "images/favicon.png"
-# logo_light = "images/logo.png"
-# logo_dark = "images/logo-dark.png"
-# logo_width = "150px"
+favicon = "images/favicon-AD.png"
+#logo_light = "images/logo-AD-dark.png"
+#logo_dark = "images/logo-AD.png"
+#logo_width = "100px"
 # Meta data
 description = "This is meta description"
 author = "somrat"

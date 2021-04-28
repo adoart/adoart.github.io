@@ -59,4 +59,3 @@ custom_css: ""
 ---
 
 I'm André Duarte and I like to see things moving on the screen. <br/>I'm a software developer working in IT since 2006.
-Although my passion is computer graphics I've been working in web development in the Fintech sector for most of my career. Until recently when I decided to try and break through the gaming industry.

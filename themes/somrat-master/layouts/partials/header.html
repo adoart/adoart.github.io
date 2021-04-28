@@ -6,6 +6,7 @@
     <!-- desktop-menu -->
     <div class="menu-container menu-normal">
       <ul class="desktop-menu list-inline mb-0 justify-content-end" id="desktop-menu">
+        {{ if site.Params.logo_dark }}
         <a class="mr-auto" href="{{ site.BaseURL | relLangURL }}">
           {{ if site.Params.logo_dark }}
           <img class="img-fluid" width="{{site.Params.logo_width}}" src="{{ site.Params.logo_dark | absURL}}"
@@ -14,6 +15,7 @@
           {{site.Title}}
           {{ end }}
         </a>
+        {{ end }}
         {{ range site.Menus.main }}
         <li class="menu-item menu-item-transparent dark hvr-underline-from-left 1"><a href="{{if .Pre}}{{site.BaseURL | absLangURL}}{{.Pre}}{{ .URL }}{{else}}{{.URL | absLangURL}}{{end}}">{{ .Name }}</a></li>
         {{ end }}
@@ -50,9 +52,11 @@
             <span></span>
           </div>
         </a>
+        {{ if site.Params.logo_dark }}
         <div class="mobile-menu-logo"><a href="{{site.BaseURL | relLangURL }}"><img class="img-fluid"
               src="{{ site.Params.logo_dark | absURL }}" alt="{{ site.Title }}"></a>
         </div>
+        {{ end }}
         <div class="menu-slider">
           <nav>
             <ul class="mobile-menu-list">
