@@ -45,6 +45,9 @@ h3 {
 ul.experience-chart h4 {
     color: #ffffff !important;
 }
+.services-icon {
+    margin-bottom: 40px !important;
+}
 @media (max-height: 535px) and (max-width: 468px) {
     .last-name {
         font-size: 35px !important;

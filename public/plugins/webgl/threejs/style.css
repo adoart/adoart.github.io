@@ -13,6 +13,7 @@
 .about-me {
     background: rgba(0, 0, 0, 0.5) !important;
 }
+
 .experience-chart li p {
     color: whitesmoke !important; 
 }
@@ -43,6 +44,9 @@ h3 {
 }
 ul.experience-chart h4 {
     color: #ffffff !important;
+}
+.services-icon {
+    margin-bottom: 40px !important;
 }
 @media (max-height: 535px) and (max-width: 468px) {
     .last-name {
