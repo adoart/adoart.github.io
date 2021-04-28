@@ -38,51 +38,6 @@
     <loc>https://adoart.github.io/public/portfolio/project-2/</loc>
     <lastmod>2020-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adoart.github.io/public/tags/access/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://adoart.github.io/public/tags/art/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://adoart.github.io/public/tags/database/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://adoart.github.io/public/tags/design/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://adoart.github.io/public/tags/development/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://adoart.github.io/public/blog/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://adoart.github.io/public/tags/sketch/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://adoart.github.io/public/tags/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://adoart.github.io/public/blog/blog-1/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://adoart.github.io/public/blog/blog-2/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://adoart.github.io/public/blog/blog-3/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://adoart.github.io/public/blog/blog-4/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://adoart.github.io/public/blog/blog-5/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://adoart.github.io/public/blog/blog-6/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://adoart.github.io/public/tags/web/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
     <loc>https://adoart.github.io/public/portfolio/project-7/</loc>
     <lastmod>2006-04-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -102,5 +57,7 @@
     <loc>https://adoart.github.io/public/about/</loc>
   </url><url>
     <loc>https://adoart.github.io/public/contact/</loc>
+  </url><url>
+    <loc>https://adoart.github.io/public/tags/</loc>
   </url>
 </urlset>
