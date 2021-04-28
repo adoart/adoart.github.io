@@ -58,4 +58,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-I'm André Duarte and I like to see things moving on the screen. <br/>I'm a software developer working in IT since 2006.
+I'm André Duarte a software developer working in IT since 2006 and I like to make things move on the screen.
