@@ -8,41 +8,21 @@ draft: false
 project_info:
 - name: "Client"
   icon: "fas fa-user"
-  content: "John Doe"
+  content: "Andre Duarte"
 - name: "Project Link"
   icon: "fas fa-link"
-  content: "https://examplesite.com/"
-- name: "New Item"
-  icon: "fas fa-globe"
-  content: "Add whatever you want"
-- name: "Loop Item"
-  icon: "fas fa-redo"
-  content: "This is in a loop"
----
+  content: "https://play.unity.com/mg/other/shopping-covid"
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/q-frsdcCF6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
+Shopping COVID a game about going shopping in the middle of a pandemic, was made during the course of Unity Junior Programmer Pathway.  
+I took the opportunity to implement an idea I got when I had to go for a last minute shopping for milk for the baby. I only had to quickly buy some milk and get back home.  
+Due to the pandemic I always try to keep a safe distance and when I got to the supermarket it was a bit busy. Looked into one corridor and saw 4 people (2 on each side) completely blocking the passage and not keeping distance at all. Searched another corridor to be able to reach the milk at the end of the super market and thought to myself "This could be a game!!!". 
 
 #### Project Details
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+Shopping COVID was made using Unity and was the first project that I decided to make it complete from beginning to the end.  
+It includes features like path finding and procedural generation.
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/q-frsdcCF6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Project Requirements
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/y-4NWeZZpGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
