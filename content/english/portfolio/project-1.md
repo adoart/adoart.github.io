@@ -8,11 +8,10 @@ draft: false
 project_info:
 - name: "Client"
   icon: "fas fa-user"
-  content: "Andre Duarte"
+  content: "Personal Project"
 - name: "Project Link"
   icon: "fas fa-link"
   content: "https://play.unity.com/mg/other/shopping-covid"
-
 ---
 A game about going shopping in the middle of a pandemic.  
 It was made during the course of Unity Junior Programmer Pathway.  
