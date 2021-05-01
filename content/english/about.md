@@ -5,7 +5,7 @@ image : "images/backgrounds/portrait.jpg"
 button:
   enable : true
   label : "DOWNLOAD MY CV"
-  link : "/public/docs/CV-AndreDuarte.pdf"
+  link : "/docs/CV-AndreDuarte.pdf"
 
 ########################### Experience ##############################
 experience:

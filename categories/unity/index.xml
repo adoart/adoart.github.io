@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>unity on Andre Duarte | Software Developer</title>
+    <link>https://adoart.github.io/categories/unity/</link>
+    <description>Recent content in unity on Andre Duarte | Software Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://adoart.github.io/categories/unity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Theremin</title>
+      <link>https://adoart.github.io/portfolio/project-4/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://adoart.github.io/portfolio/project-4/</guid>
+      <description>This project started with an interaction with one of the game developers that I follow on twitter.</description>
+    </item>
+    
+    <item>
+      <title>Shopping COVID</title>
+      <link>https://adoart.github.io/portfolio/project-1/</link>
+      <pubDate>Wed, 24 Feb 2021 12:10:00 +0000</pubDate>
+      
+      <guid>https://adoart.github.io/portfolio/project-1/</guid>
+      <description>A game about going shopping in the middle of a pandemic.</description>
+    </item>
+    
+    <item>
+      <title>HoopsVR</title>
+      <link>https://adoart.github.io/portfolio/project-3/</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://adoart.github.io/portfolio/project-3/</guid>
+      <description>This project was made during the course of Unity Junior Programmer Pathway.</description>
+    </item>
+    
+    <item>
+      <title>Untitled</title>
+      <link>https://adoart.github.io/portfolio/project-2/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adoart.github.io/portfolio/project-2/</guid>
+      <description>This project came from an idea that I&amp;rsquo;ve been exploring for a while, &amp;ldquo;What is like to have super powers in VR?</description>
+    </item>
+    
+  </channel>
+</rss>

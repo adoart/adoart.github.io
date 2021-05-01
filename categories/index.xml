@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Andre Duarte | Software Developer</title>
+    <link>https://adoart.github.io/categories/</link>
+    <description>Recent content in Categories on Andre Duarte | Software Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Sat, 24 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://adoart.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>threejs</title>
+      <link>https://adoart.github.io/categories/threejs/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://adoart.github.io/categories/threejs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webgl</title>
+      <link>https://adoart.github.io/categories/webgl/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://adoart.github.io/categories/webgl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unity</title>
+      <link>https://adoart.github.io/categories/unity/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://adoart.github.io/categories/unity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VR</title>
+      <link>https://adoart.github.io/categories/vr/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://adoart.github.io/categories/vr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oldschool</title>
+      <link>https://adoart.github.io/categories/oldschool/</link>
+      <pubDate>Sun, 02 Apr 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://adoart.github.io/categories/oldschool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opengl</title>
+      <link>https://adoart.github.io/categories/opengl/</link>
+      <pubDate>Sun, 02 Apr 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://adoart.github.io/categories/opengl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
