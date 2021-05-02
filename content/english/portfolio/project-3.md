@@ -17,7 +17,7 @@ project_info:
 This project was made during the course of Unity Junior Programmer Pathway.  
 One of the exercises of the course was to use a provided prototype that was counting some balls falling inside a box and showing the results.
 We could then make anything as long it would implement the same features, counting balls and showing the results.  
-Since I've been exploring the VR area I thought "Lets make a VR basketball game!" and so it was, a couple of assets from Sketchfab and we have a HoopsVR.
+Since I have been exploring the VR area I thought "Lets make a VR basketball game!" and so it was, a couple of assets from Sketchfab and we have a HoopsVR.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/FDFCWDKubxY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

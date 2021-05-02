@@ -1,5 +1,5 @@
 ---
-title: "Billard GL"
+title: "Billiard GL"
 date: 2002-07-23
 image: "images/portfolio/billardGL.png"
 categories: ["opengl","oldschool"]
@@ -12,8 +12,8 @@ project_info:
 ---
 
 This project was the final project of the discipline "Computer Graphics II" while I was studying in ISEC.
-The task was to make a billard table with a simple animation. We decided to go further and implemented a physics engine.  
+The task was to make a billiard table with a simple animation. We decided to go further and implemented a physics engine.  
 
 #### Project Details
 
-Billard GL was made using OpenGL and it shows up technics like physics, lights, textures, reflections, modeling and camera manipulation. 
+Billiard GL was made using OpenGL and it shows up technics like physics, lights, textures, reflections, modelling and camera manipulation. 

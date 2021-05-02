@@ -94,20 +94,12 @@ enable = true
   
 ############################# social site ########################
 [[params.social]]
-icon = "fab fa-facebook-f"
-link = "https://www.facebook.com/andre.pereira.duarte/"
-
-[[params.social]]
 icon = "fab fa-twitter"
 link = "https://twitter.com/gigamochi"
 
 [[params.social]]
 icon = "fab fa-youtube"
 link = "https://www.youtube.com/channel/UCOEpyoMk-YrtAWgLGzkWUuw"
-
-#[[params.social]]
-#icon = "fab fa-instagram"
-#link = "https://www.instagram.com/somratpro"
 
 [[params.social]]
 icon = "fab fa-github"

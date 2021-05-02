@@ -13,7 +13,7 @@ project_info:
 
 This project was the final project of the discipline "Intelligent Systems" while I was studying in ISEC.  
 The task was to implement an application that uses an AI algorithm.  
-At that time I was really enjoying working with OpenGL, so for this project we decided to implement the "frontend" using OpenGL and made a checkers game, single player against cpu.
+At that time I was really enjoying working with OpenGL, so for this project we decided to implement the "frontend" using OpenGL and made a checkers game, single player against CPU.
 
 
 #### Project Details
