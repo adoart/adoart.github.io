@@ -81,7 +81,7 @@ favicon = "images/favicon-AD.png"
 #logo_dark = "images/logo-AD.png"
 #logo_width = "100px"
 # Meta data
-description = "This is meta description"
+description = "Andre Duarte | Software Developer"
 author = "somrat"
 
 # Preloader
@@ -107,7 +107,7 @@ link = "https://github.com/adoart"
 
 [[params.social]]
 icon = "fab fa-linkedin"
-link = "https://www.linkedin.com/in/duarte-5419b13/"
+link = "https://www.linkedin.com/in/adoart/"
 
 
 ################################### English language #####################################
