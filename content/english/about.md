@@ -40,11 +40,15 @@ skill:
       percentage : "98%"
 
     # skill item loop
-    - name : "Web Applications"
-      percentage : "98%"
+    - name : "Java"
+      percentage : "90%"
 
     # skill item loop
     - name : "Unity"
+      percentage : "70%"
+
+    # skill item loop
+    - name : "C#"
       percentage : "70%"
       
     # skill item loop
