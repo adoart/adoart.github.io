@@ -114,45 +114,45 @@ function drawStarField() {
 document.addEventListener('wheel', animateIncal);
 
 function animateIncal(event) {
-    let topOffset = topIncal.position.y;
-    topIncal.position.y = clamp(topOffset += event.deltaY * 0.001, -0.5, 0.125);
-    topOffset = topLine.position.y;
-    topLine.position.y = clamp(topOffset += event.deltaY * 0.001, -0.5, 0.125);
-    let bottomOffset = bottomIncal.position.y;
+    let ease = 0.00018;
 
-    bottomIncal.position.y = clamp(bottomOffset -= event.deltaY * 0.001, -0.125, 0.5);
+    let topOffset = topIncal.position.y;
+    topIncal.position.y = clamp(topOffset + event.deltaY * ease, -0.5, 0.125);
+    topOffset = topLine.position.y;
+    topLine.position.y = clamp(topOffset + event.deltaY * ease, -0.5, 0.125);
+
+    let bottomOffset = bottomIncal.position.y;
+    bottomIncal.position.y = clamp(bottomOffset - event.deltaY * ease, -0.125, 0.5);
     bottomOffset = bottomLine.position.y;
-    bottomLine.position.y = clamp(bottomOffset -= event.deltaY * 0.001, -0.125, 0.5);
+    bottomLine.position.y = clamp(bottomOffset - event.deltaY * ease, -0.125, 0.5);
 }
 
 function clamp(number, min, max) {
     return Math.max(min, Math.min(number, max));
 }
 
-document.addEventListener('mousemove', animateParticles);
-
-let mouseX = 0;
-let mouseY = 0;
-
 function animateParticles(event) {
-    mouseX = event.clientX;
-    mouseY = event.clientY;
+    let scale = -0.0001;
+    particlesMesh.rotateY( event.movementX * scale );
+    particlesMesh.rotateX( event.movementY * scale );
 }
-
-const clock = new THREE.Clock();
-
-
-function animate() {
-    requestAnimationFrame(animate);
-    const elapsedTime = clock.getElapsedTime();
-    particlesMesh.rotation.x = -mouseY * (elapsedTime * 0.00004);
-    particlesMesh.rotation.y = mouseX * (elapsedTime * 0.00004);
-    controls.update();
-
-    renderer.render(scene, camera);
-}
+document.addEventListener('mousemove', animateParticles);
 
 setupScene();
 drawIncal();
 drawStarField();
-animate();
+
+// Animate
+const tick = () =>
+{
+    // Update Controls
+    controls.update()
+
+    // Render
+    renderer.render(scene, camera)
+
+    // Call tick again on the next frame
+    window.requestAnimationFrame(tick)
+}
+
+tick()
