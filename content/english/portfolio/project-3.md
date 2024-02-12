@@ -14,13 +14,17 @@ project_info:
   content: "https://learn.unity.com/submission/60350f8fedbc2a21b8b10836"
 ---
 
-This project was made during the course of Unity Junior Programmer Pathway.  
-One of the exercises of the course was to use a provided prototype that was counting some balls falling inside a box and showing the results.
-We could then make anything as long it would implement the same features, counting balls and showing the results.  
-Since I have been exploring the VR area I thought "Lets make a VR basketball game!" and so it was, a couple of assets from Sketchfab and we have a HoopsVR.
+#### From Basic Prototype to VR Hoops
+
+This VR basketball game, HoopsVR, wasn't built from scratch! Instead, it began as an exercise within the Unity Junior Programmer Pathway course. The course provided a starting point - a prototype that counted balls falling into a box - and challenged students to use this foundation to create something unique.
+
+#### Spark of Inspiration
+
+Drawing upon my recent interest in VR, I seized the opportunity to transform the ball-counting prototype into a dynamic virtual reality experience. "Let's make a VR basketball game!" I thought, and with that, the concept of HoopsVR was born.
+
+#### Building the Experience
+
+To bring this vision to life, assets from Sketchfab were used. Integrating these assets with the modified counting mechanic formed the core gameplay of HoopsVR. Players had to shoot virtual basketballs into a hoop, with each successful shot triggering the counting mechanism and providing visual feedback (like a scoreboard) within the VR environment.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/FDFCWDKubxY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-#### Project Details
-
-HoopsVR was made using Unity and includes technics like physics and VR.
+<br><br/>
