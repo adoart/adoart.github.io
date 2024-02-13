@@ -14,7 +14,7 @@ project_info:
   content: "https://www.manus-meta.com/"
 ---
 
-Manus DevTools is a software tool developed by MANUS Meta to assist in configuring and animating models using the Manus Core SDK. It is designed to facilitate the creation of chains of nodes, which are then used to retarget real-time data from the Manus Core SDK to the model.
+Manus DevTools is a software tool developed by MANUS Meta to assist in configuring and animating models using the Manus Core. It is designed to facilitate the creation of chains of nodes, which are then used to retarget real-time data from the Manus Core to the model.
 
 <img alt="targets" src="/images/portfolio/DevTools/devtools-2.png" width="100%"/>
 <br><br/>
@@ -25,7 +25,7 @@ Manus DevTools is a software tool developed by MANUS Meta to assist in configuri
 
 - Chain Creation: Manus DevTools enables the creation and manipulation of chains of nodes. These chains represent the relationships between different parts of the model and are essential for accurately retargeting motion data.
 
-- Real-time Retargeting: Manus DevTools serves as the bridge between the Manus Core SDK and the animated model. It receives real-time motion data from the SDK and applies it to the model using the configured chains. This allows for seamless integration of Manus motion capture data into animations.
+- Real-time Retargeting: Manus DevTools serves as the bridge between the Manus Core and the animated model. Manus Core receives real-time motion data from motion capture systems and applies it to the model using the configured chains. This allows for seamless integration of motion capture data into animations.
 
   
 <img alt="targets" src="/images/portfolio/DevTools/devtools-3.png" width="100%"/>
@@ -37,7 +37,7 @@ Manus DevTools is a software tool developed by MANUS Meta to assist in configuri
 
 - Chain Editing and Manipulation: Manus DevTools offers tools for creating, editing, and modifying chains of nodes. This includes adding and removing nodes, adjusting their order, and setting up constraints.
 
-- Real-time Data Visualization: Manus DevTools displays real-time motion data from the Manus Core SDK, allowing users to see how the model is responding to the captured movements.
+- Real-time Data Visualization: Manus DevTools displays real-time motion data from Manus Core, allowing users to see how the model is responding to the captured movements.
 
 - Animation Previewing: Manus DevTools provides a playback feature that allows users to preview animations before applying them to the model. This ensures that the motion is accurate and matches the desired movements.
 
