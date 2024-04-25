@@ -25,3 +25,6 @@ Shopping COVID was made using Unity and was the first project that I decided to 
 It includes features like path finding and procedural generation.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/y-4NWeZZpGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Give it a try
+<iframe width="100%" height="650" src="https://adoart.github.io/shopping-covid/Build-1.1/" title="Shopping COVID" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

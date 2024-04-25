@@ -4,13 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5fa8e11-7995-4f20-8d95-087929ed56e1" name="Default" comment="">
+    <list default="true" id="0c102ce6-e330-4247-bac2-d5fd484757f4" name="Embedded Shopping Covid" comment="Added Shopping Covid WebGL build to project-1 page.">
+      <change afterPath="$PROJECT_DIR$/static/shopping-covid/Build-1.1/Build/Build-1.1.data.unityweb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/shopping-covid/Build-1.1/Build/Build-1.1.framework.js.unityweb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/shopping-covid/Build-1.1/Build/Build-1.1.loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/shopping-covid/Build-1.1/Build/Build-1.1.wasm.unityweb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/shopping-covid/Build-1.1/GUID.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/shopping-covid/Build-1.1/ProjectVersion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/shopping-covid/Build-1.1/dependencies.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/shopping-covid/Build-1.1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/english/portfolio/project-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/english/portfolio/project-1.md" afterDir="false" />
+    </list>
+    <list id="c5fa8e11-7995-4f20-8d95-087929ed56e1" name="Default" comment="" />
+    <list id="1792c137-c774-4c40-b763-c70d0087bcc0" name="DoNotCommit" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -23,6 +40,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -219,12 +241,63 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c5fa8e11-7995-4f20-8d95-087929ed56e1" name="Default" comment="" />
+      <changelist id="1792c137-c774-4c40-b763-c70d0087bcc0" name="DoNotCommit" comment="" />
+      <changelist id="0c102ce6-e330-4247-bac2-d5fd484757f4" name="Embedded Shopping Covid" comment="Added Shopping Covid WebGL build to project-1 page." />
       <created>1617596267911</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617596267911</updated>
       <workItem from="1617596277764" duration="813000" />
       <workItem from="1679289123540" duration="794000" />
+      <workItem from="1694865684613" duration="82000" />
+      <workItem from="1704832191571" duration="338000" />
+      <workItem from="1704832549804" duration="8804000" />
+      <workItem from="1705356619253" duration="1640000" />
+      <workItem from="1707748681486" duration="5786000" />
+      <workItem from="1708547532416" duration="650000" />
+      <workItem from="1709029667907" duration="593000" />
+      <workItem from="1713874928706" duration="4814000" />
+      <workItem from="1714031712899" duration="1760000" />
+    </task>
+    <task id="LOCAL-00001" summary="Small threejs improvements&#10;- fixed weird star field rotation (was rotating faster over time)&#10;- made Incal scroll animation a bit smoother (still not happy, steps still noticeable)">
+      <option name="closed" value="true" />
+      <created>1704840233763</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704840233763</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Small threejs improvements&#10;- forgot to run hugo">
+      <option name="closed" value="true" />
+      <created>1704840574381</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704840574381</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gpteed project-2.md text">
+      <option name="closed" value="true" />
+      <created>1707749784298</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707749784298</updated>
+    </task>
+    <task id="LOCAL-00004" summary="gpteed project-3.md text">
+      <option name="closed" value="true" />
+      <created>1707750727644</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707750727644</updated>
+    </task>
+    <task id="LOCAL-00005" summary="gpteed project-4.md text">
+      <option name="closed" value="true" />
+      <created>1707751790242</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707751790242</updated>
     </task>
     <servers />
   </component>
@@ -283,6 +356,19 @@
     <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="Small threejs improvements&#10;- fixed weird star field rotation (was rotating faster over time)&#10;- made Incal scroll animation a bit smoother (still not happy, steps still noticeable)" />
+    <MESSAGE value="Small threejs improvements&#10;- forgot to run hugo" />
+    <MESSAGE value="gpteed project-2.md text" />
+    <MESSAGE value="gpteed project-3.md text" />
+    <MESSAGE value="gpteed project-4.md text" />
+    <MESSAGE value="Small threejs improvements&#10;- fixed st" />
+    <MESSAGE value="small text tweaks" />
+    <MESSAGE value="Build static contents" />
+    <option name="LAST_COMMIT_MESSAGE" value="Build static contents" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/img/Bean Eater-1s-200px.gif">
